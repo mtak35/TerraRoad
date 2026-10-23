@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+preferences.ini
+user_styles.json
+map_cache/
