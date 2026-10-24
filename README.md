@@ -6,6 +6,15 @@ Python road-design extension for **IngeTrazo 0.5.9**, published by
 **0.8.0-dev is a development preview.** This is a native Python port of the
 author's TerraRoad SketchUp extension. Full feature parity remains incomplete.
 
+![TerraRoad road junction with curbs, sidewalks, lighting and keep-clear markings](screenshots/terraroad-junction.png)
+
+## New to TerraRoad?
+
+Read the **[beginner's usage guide](USER_GUIDE.md)** for installation, your first
+road, branches, face conversion, roundabouts, editing, units, maps and quantities.
+
+![TerraRoad designer and live cross-section preview](screenshots/terraroad-designer.png)
+
 ## Features
 
 - Continuous centerline road drawing and branches with generated junctions.
